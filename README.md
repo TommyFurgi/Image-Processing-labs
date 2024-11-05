@@ -1,6 +1,6 @@
 # Image Processing Labs
 
-## Overwiew
+## Overview
 
 This repository contains resources and task implementations for the Image Processing course at AGH University of Science and Technology in Kraków in the academic year 2024/2025. The course introduces students to core concepts in image processing, exploring essential techniques and algorithms widely used in the field.
 
