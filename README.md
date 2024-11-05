@@ -7,7 +7,7 @@ This repository contains resources and task implementations for the Image Proces
 ## Covered topics
 
 [Lab01](/lab01-intro/) - introduction to openCV library
-[Lab02](/lab02-poit-operations/) - LUT transformations
+[Lab02](/lab02-point-operations/) - LUT transformations
 
 ## Technologies
 
